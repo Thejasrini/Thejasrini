@@ -36,5 +36,4 @@
 
 ## Connect With Me  
 - GitHub: https://github.com/Thejasrini
-- LinkedIn: [https://linkedin.com/in/your-link (optional)](https://www.linkedin.com/in/thejasrinim7/)
-
+- LinkedIn: https://www.linkedin.com/in/thejasrinim7/
