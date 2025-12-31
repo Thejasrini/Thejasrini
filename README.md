@@ -1,4 +1,4 @@
-# Theja Srini 👋  
+# Thejasrini M👋  
 
 🎓 B.Tech – Artificial Intelligence & Data Science  
 🏫 Kongu Engineering College, Perundurai  
